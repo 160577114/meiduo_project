@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 .idea
+# 第二次测试提交到github
 # C extensions
 *.so
 
